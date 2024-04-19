@@ -1,0 +1,7 @@
+C:\Users\nadia hariky\Desktop\projets\Adapter\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\nadia hariky\Desktop\projets\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\nadia hariky\Desktop\projets\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\nadia hariky\Desktop\projets\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\nadia hariky\Desktop\projets\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\nadia hariky\Desktop\projets\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\nadia hariky\Desktop\projets\Adapter\Adapter\obj\Debug\Adapter.pdb
